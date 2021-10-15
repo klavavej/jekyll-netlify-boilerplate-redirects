@@ -65,8 +65,8 @@ kramdown:
 # Uncomment before use
 
 #include:
-#  - _redirects
-#  - _headers
+  - _redirects
+  - _headers
 
 # Exclude from processing.
 # The following items will not be processed.
